@@ -1,0 +1,46 @@
+Fictional demonstration — no client results claimed
+
+DRAFT — compare all factual claims against the original before delivery.
+
+LinkedIn 1
+Your handoff note needs an owner, not another paragraph.
+
+For each task, write: task, owner, next action, due date. Before sharing, check that the owner is named and the next action is explicit.
+
+If the task itself is unclear, have the conversation first. The note supports coordination; it cannot create clarity on its own.
+Source IDs: S1, S2, S3, S4
+
+LinkedIn 2
+Try a handoff format on one project before rolling it out.
+
+Use four fields: task, owner, next action, due date. Then review the format at your next team meeting.
+
+Keep the first test small enough that the team can discuss what needs changing.
+Source IDs: S2, S5
+
+LinkedIn 3
+Before you share the weekly handoff note, ask two questions:
+
+Who owns each task?
+What is the next action?
+
+Write both explicitly. If either answer is unclear, use a conversation to resolve it before relying on the note.
+Source IDs: S3, S4
+
+Newsletter 1
+Subject: A simple weekly handoff format to try
+
+A weekly handoff note can make task ownership visible. Start with four fields: task, owner, next action and due date.
+
+Before sharing, check that every task has one named owner and an explicit next action. When the task is unclear, have a conversation rather than relying on the note.
+
+Try the format on one project and review it at your next team meeting.
+Source IDs: S1, S2, S3, S4, S5
+
+Short script 1
+A handoff note can be simple. Put four fields on screen: task, owner, next action, due date. Before sharing, check the owner and next action. If the work is unclear, talk first. A note is a coordination aid, not a replacement for the conversation.
+Source IDs: S2, S3, S4
+
+Short script 2
+Thinking about a new weekly handoff format? Start with one project. Record the task, owner, next action and due date. At the next team meeting, review the format before expanding it. Keep the first test small.
+Source IDs: S2, S5

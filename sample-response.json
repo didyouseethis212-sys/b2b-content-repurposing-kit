@@ -1,0 +1,55 @@
+{
+  "label": "Fictional demonstration — no client results claimed",
+  "linkedin_posts": [
+    {
+      "text": "Your handoff note needs an owner, not another paragraph.\n\nFor each task, write: task, owner, next action, due date. Before sharing, check that the owner is named and the next action is explicit.\n\nIf the task itself is unclear, have the conversation first. The note supports coordination; it cannot create clarity on its own.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "text": "Try a handoff format on one project before rolling it out.\n\nUse four fields: task, owner, next action, due date. Then review the format at your next team meeting.\n\nKeep the first test small enough that the team can discuss what needs changing.",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "text": "Before you share the weekly handoff note, ask two questions:\n\nWho owns each task?\nWhat is the next action?\n\nWrite both explicitly. If either answer is unclear, use a conversation to resolve it before relying on the note.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ]
+    }
+  ],
+  "newsletter": {
+    "text": "Subject: A simple weekly handoff format to try\n\nA weekly handoff note can make task ownership visible. Start with four fields: task, owner, next action and due date.\n\nBefore sharing, check that every task has one named owner and an explicit next action. When the task is unclear, have a conversation rather than relying on the note.\n\nTry the format on one project and review it at your next team meeting.",
+    "source_ids": [
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S5"
+    ]
+  },
+  "short_scripts": [
+    {
+      "text": "A handoff note can be simple. Put four fields on screen: task, owner, next action, due date. Before sharing, check the owner and next action. If the work is unclear, talk first. A note is a coordination aid, not a replacement for the conversation.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "text": "Thinking about a new weekly handoff format? Start with one project. Record the task, owner, next action and due date. At the next team meeting, review the format before expanding it. Keep the first test small.",
+      "source_ids": [
+        "S2",
+        "S5"
+      ]
+    }
+  ]
+}

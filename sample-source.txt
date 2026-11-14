@@ -1,0 +1,6 @@
+Fictional portfolio source — original demonstration, not a customer case study.
+[S1] A small B2B consultancy can use a weekly handoff note to make ownership visible.
+[S2] Each note can contain four fields: the task, the owner, the next action, and the due date.
+[S3] Before sharing it, the team should check that each task has one named owner and an explicit next action.
+[S4] A handoff note is a coordination aid; it does not replace a conversation when the task is unclear.
+[S5] Start with one project and review the format at the next team meeting before expanding it.
